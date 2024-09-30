@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github/annysonrisas/godesdecero/variables/ejercicios"
+	"github/annysonrisas/godesdecero/ejercicios"
 )
 
 func main() {

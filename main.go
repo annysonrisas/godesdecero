@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github/annysonrisas/godesdecero/teclado"
-)
+import "github/annysonrisas/godesdecero/ejercicios"
 
 func main() {
 	/*	estado, texto := variables.ConviertoaTexto(1588)
@@ -26,6 +24,6 @@ func main() {
 	fmt.Println(texto)
 		}*/
 
-	teclado.IngresoNumeros()
+	ejercicios.TabladeMultiplicar()
 
 }

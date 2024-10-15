@@ -1,6 +1,6 @@
 package main
 
-import "github/annysonrisas/godesdecero/files"
+import "github/annysonrisas/godesdecero/arreglos_slices"
 
 func main() {
 
@@ -28,6 +28,7 @@ func main() {
 		fmt.Println(ejercicios.TabladeMultiplicar())
 	*/
 	//files.GrabaTabla()
-	files.LeoArchivo()
-
+	//	files.LeoArchivo()
+	//arreglos_slices.MuestroSlice()
+	arreglos_slices.Capacidad()
 }
